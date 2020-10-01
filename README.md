@@ -1,2 +1,2 @@
 # Car-Animation
-Made by using HTML CSS AND JAVASCRIPT
+This project showcases the use of html, css and javascript for a car animation effect.
