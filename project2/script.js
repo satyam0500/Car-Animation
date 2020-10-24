@@ -3,3 +3,7 @@ var audio = document.createElement('audio');
 audio.setAttribute('src','sound.mp3');
 //to make the sound effect audio.loop is used
 audio.loop=true;
+
+=======
+
+>>>>>>> master
